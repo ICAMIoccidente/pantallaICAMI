@@ -61,6 +61,12 @@ td {
     text-align: center;
     font-size: 40px;
     text-transform: uppercase;
+    padding: 5px 0px;
+}
+
+tr:nth-child(2n){
+    background: #041d51;
+    font-weight: bold;
 }
 
 .capa {
