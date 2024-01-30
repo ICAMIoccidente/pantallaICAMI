@@ -13,17 +13,18 @@
     
 }
 .escudo{
-    margin-top: 100px;
+    margin-top: 60px;
     text-align: center;
 }
 
+
 .logo{
-    height: 350px;
+    height: 200px;
 }
 
 .contenedor-semana{
-    margin: 14vh auto;
-    padding: 5vh;
+    margin: 60px auto;
+    padding: 30px;
     background-color: aquamarine;
     width: 60%;
     display: flex;
