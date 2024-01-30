@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    width: 3840px;
+    height: 2160px;
+    border: solid 100px #001e60;
+    position: relative;
+    background-color: #90b1f6;
+    
+}
+.escudo{
+    margin-top: 4vh;
+    text-align: center;
+}
+
+.logo{
+    height: 15vh;
+}
+
+.contenedor-semana{
+    margin: 14vh auto;
+    padding: 5vh;
+    background-color: aquamarine;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor-semana > div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5vh;
+    height: 8vh;
+    width: 8vh;
+    background-color: #001e60;
+    color: #fff;
+    margin-right: 3vh;
+    padding: 1vh;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    transition: all .3s;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.contenedor-semana > div:hover{
+    background: red;
+}
