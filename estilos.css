@@ -7,18 +7,18 @@
 .contenedor{
     width: 100%;
     height: 100vh;
-    border: solid 100px #001e60;
+    border: solid 30px #001e60;
     position: relative;
     background-color: #90b1f6;
     
 }
 .escudo{
-    margin-top: 4vh;
+    margin-top: 100px;
     text-align: center;
 }
 
 .logo{
-    height: 15vh;
+    height: 350px;
 }
 
 .contenedor-semana{
